@@ -57,13 +57,19 @@ a {
     background-color: #77acf1;
     color: black;
 }
-.A {
+.enlaze {
     padding: 3rem;
     text-align: center;
     font-size: 2rem;
     color: #04009a;
     font-weight: bold;
 }
-.p {
-  color: var(--rojo);
+.spotify {
+  text-align: center;
+}
+svg {
+  font-weight: auto;
+}
+a {
+  color: red;
 }
