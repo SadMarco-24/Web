@@ -64,3 +64,6 @@ a {
     color: #04009a;
     font-weight: bold;
 }
+.p {
+  color: var(--rojo);
+}
